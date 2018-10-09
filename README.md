@@ -1,0 +1,1 @@
+# sushizen-odoo.sh
